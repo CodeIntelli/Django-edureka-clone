@@ -1,4 +1,4 @@
-# Django Udemy Clone
+# Django Edureka Clone
 
 Admin Credentials:-
 
