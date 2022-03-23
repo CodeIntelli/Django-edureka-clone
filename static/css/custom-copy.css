@@ -44,10 +44,11 @@ ul li {
   text-decoration: none;
 }
 .boxes {
-  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  /* box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23); */
   margin-bottom: 30px;
   margin-top: 30px;
-  border-bottom: 2px #0d569b solid;
+  /* border: 1px solid #000; */
+  /* border-bottom: 2px #0d569b solid; */
 }
 .side-menu-section ul li {
   padding: 10px 0 10px 20px;
@@ -280,8 +281,12 @@ ul.drop-6 li a:hover {
 .dropdown-menu {
   height: 402px !important;
 }
-.drop1{ background: #f3f3f3;}
+.drop1 {
+  background: #f3f3f3;
+}
 .dropend {
   height: auto !important;
 }
-.mainmenu a{font-size: 14px !important;}
+.mainmenu a {
+  font-size: 14px !important;
+}
